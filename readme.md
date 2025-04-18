@@ -4,38 +4,38 @@
 
 ## Contents
 
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
-- [Hardware](#hardware)
-- [Business](#business)
-- [Work](#work)
-- [Networking](#networking)
-- [Decentralized Systems](#decentralized-systems)
-- [Health and Social Science](#health-and-social-science)
-- [Events](#events)
-- [Testing](#testing)
-- [Miscellaneous](#miscellaneous)
-- [Related](#related)
+- [Platforms](#platforms) 平台
+- [Programming Languages](#programming-languages) 编程语言
+- [Front-End Development](#front-end-development) 前端开发
+- [Back-End Development](#back-end-development) 后端开发
+- [Computer Science](#computer-science) 计算机科学
+- [Big Data](#big-data) 大数据
+- [Theory](#theory) 理论
+- [Books](#books) 书籍
+- [Editors](#editors) 编辑器
+- [Gaming](#gaming) 游戏
+- [Development Environment](#development-environment) 开发环境
+- [Entertainment](#entertainment) 娱乐
+- [Databases](#databases) 数据库
+- [Media](#media) 媒体
+- [Learn](#learn) 学习
+- [Security](#security) 安全
+- [Content Management Systems](#content-management-systems) 内容管理系统
+- [Hardware](#hardware) 硬件
+- [Business](#business) 商业
+- [Work](#work) 工作
+- [Networking](#networking) 网络
+- [Decentralized Systems](#decentralized-systems) 去中心化系统
+- [Health and Social Science](#health-and-social-science) 健康和社会科学
+- [Events](#events) 事件
+- [Testing](#testing) 测试
+- [Miscellaneous](#miscellaneous) 杂项
+- [Related](#related) 相关
 
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
+  - [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
 - [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
@@ -45,20 +45,20 @@
 - [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
 - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
 - [Linux](https://github.com/inputsh/awesome-linux#readme)
-	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
-	- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
+  - [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
+  - [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+  - [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
+  - [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 - macOS - Operating system for Apple's Mac computers.
-	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
-	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+  - [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+  - [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
+  - [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 - [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
 - [JVM](https://github.com/deephacks/awesome-jvm#readme)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
 - [Windows](https://github.com/0pandadev/awesome-windows#readme) - Consumer desktop operating system.
-	- [PowerToys Run Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme) - Community plugins for the Windows quick launcher.
+  - [PowerToys Run Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme) - Community plugins for the Windows quick launcher.
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
 - [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
@@ -69,8 +69,8 @@
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
 - [KDE](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
-	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
-	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+  - [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
+  - [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 - [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
@@ -97,39 +97,39 @@
 ## Programming Languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
-	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
-	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
-	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
-	- [Tips](https://github.com/loverajoel/jstips#readme)
-	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
-	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
-	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-	- [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
-	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
-	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
-	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
-	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-	- [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
+  - [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
+  - [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter. 风格指南和 linter
+  - [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme) 必看演讲
+  - [Tips](https://github.com/loverajoel/jstips#readme) 提示
+  - [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme) 网络层
+  - [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme) 微型 npm 包
+  - [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist. 不可能的项目
+  - [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages. 维护 npm 包
+  - [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
+  - [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
+  - [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+  - [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme) 函数式编程
+  - [Observables](https://github.com/sindresorhus/awesome-observables#readme) 可观察对象
+  - [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner. 任务运行器
+  - [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds. 30 秒代码片段
+  - [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs. 像 polyfills 但不会覆盖原生 API
 - [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
-	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
-	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
-- [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
-	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
-	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
-	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
-	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+  - [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
+  - [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
+- [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability. 通用编程语言，旨在提高可读性
+  - [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3. 异步 I/O
+  - [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music. 科学研究音频/音乐
+  - [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers. 用于微控制器的 Python 版本
+  - [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning. 数据分析和机器学习
+  - [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python. 可选的静态类型检查
+  - [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers. 一个精简高效的 Python 3 实现，用于微控制器
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
- 	- [Pest](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
+  - [Pest](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
 - [Scala](https://github.com/lauris/awesome-scala#readme)
-	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+  - [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 - [Ruby](https://github.com/markets/awesome-ruby#readme)
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
@@ -141,21 +141,21 @@
 - [C](https://github.com/inputsh/awesome-c#readme)
 - [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 - [R](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
-	- [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+  - [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 - [D](https://github.com/dlang-community/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
-	- [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
+  - [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 - [Perl](https://github.com/hachiojipm/awesome-perl#readme)
 - [Groovy](https://github.com/kdabir/awesome-groovy#readme)
 - [Dart](https://github.com/yissachar/awesome-dart#readme)
 - [Java](https://github.com/akullpp/awesome-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
-	- [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
+  - [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
 - [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
 - [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
-	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
+  - [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
 - [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
@@ -175,34 +175,22 @@
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 
-<br>
-<hr>
-<br>
-<br>
-<a href="https://vshymanskyy.github.io/StandWithUkraine">
-	<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
-</a>
-<br>
-<br>
-<hr>
-<br>
-
 ## Front-End Development
 
-- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
-- [Web Tools](https://github.com/lvwzhen/tools#readme)
-- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
-	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme)
-	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
-	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
-	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
-- [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
-	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
-	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
+- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme) ES6 工具
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) 网络性能优化
+- [Web Tools](https://github.com/lvwzhen/tools#readme) 网络工具
+- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen. CSS 样式表语言，用于指定 HTML 元素在屏幕上的显示方式
+  - [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme) 关键路径 CSS 工具
+  - [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme) 可扩展性
+  - [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme) 必看演讲
+  - [Protips](https://github.com/AllThingsSmitty/css-protips#readme) 提示
+  - [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme) 框架
+- [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces. React 是一个用于构建用户界面的 JavaScript 库
+  - [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps. 用于构建数据驱动的 React 应用的框架
+  - [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class. React Hooks 允许你在不写类的情况下使用状态和其他 React 功能
 - [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
-- [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
+- [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components. 用于开发 Web Components 的 JavaScript 库
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
@@ -215,15 +203,15 @@
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
 - [Meteor](https://github.com/Urigo/awesome-meteor#readme)
-- [BEM](https://github.com/sturobson/BEM-resources#readme)
-- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme)
-- [Web Typography](https://github.com/deanhume/typography#readme)
-- [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
+- [BEM](https://github.com/sturobson/BEM-resources#readme) BEM 资源
+- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme) Flexbox 资源
+- [Web Typography](https://github.com/deanhume/typography#readme) 网络排版
+- [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme) 网络无障碍
 - [Material Design](https://github.com/sachin1092/awesome-material#readme)
 - [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
 - [Emails](https://github.com/jonathandion/awesome-emails#readme)
 - [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
-	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
+  - [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
 - [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
@@ -276,78 +264,78 @@
 ## Back-End Development
 
 - [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
-- [Docker](https://github.com/veggiemonk/awesome-docker#readme)
-- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+- [Docker](https://github.com/veggiemonk/awesome-docker#readme) Docker 资源
+- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - 自动化虚拟机环境
+- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python 框架
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
-- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
-- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
-	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
-- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
-	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-	- [TALL Stack](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
-- [Rails](https://github.com/gramantin/awesome-rails#readme) - Web app framework for Ruby.
-	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
-- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP 框架
+- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP 框架
+  - [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
+- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP 框架
+  - [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
+  - [TALL Stack](https://github.com/livewire/awesome-tall-stack#readme) - 全栈开发解决方案，由 Laravel 社区构建的库
+- [Rails](https://github.com/gramantin/awesome-rails#readme) - Ruby Web 应用框架
+  - [Gems](https://github.com/hothero/awesome-rails-gem#readme) - 包
+- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP 框架
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
-- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
-- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
-- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
-- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
-- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
-- [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Server-side development in Swift.
-- [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
-- [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
-- [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
-- [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
-- [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
-- [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
-- [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
-- [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
-- [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
+- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web 服务器
+- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java 框架
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - 开源平台，自动化 Linux 容器操作
+- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP 微框架
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - 无服务器计算和无服务器架构
+- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java Web 应用框架
+- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - JVM 上的反应性应用工具包
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本化基础设施的工具
+- [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Swift 服务器端开发
+- [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python Web 应用框架
+- [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python Web 应用框架
+- [CDK](https://github.com/kolomied/awesome-cdk#readme) - 开源软件开发框架，用于定义云基础设施代码
+- [IAM](https://github.com/kdeldycke/awesome-iam#readme) - 用户账户、身份验证和授权
+- [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP 框架
+- [Fiber](https://github.com/gofiber/awesome-fiber#readme) - 基于 Fasthttp 的 Web 框架，Go 最快的 HTTP 引擎
+- [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes 原生声明性配置管理工具
+- [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - 开源基础设施即代码工具
+- [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python Web 框架，用于构建前端和后端，无需 JavaScript
 
 ## Computer Science
 
-- [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
-- [Data Science](https://github.com/academic/awesome-datascience#readme)
-	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
-- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
-	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
-	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
-	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
-	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
-	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
-	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
-	- [JAX](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
-	- [XAI](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
-- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
-	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
-	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
-	- [Question Answering](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
-	- [Natural Language Generation](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data-to-text, conversational agents, and narrative generation applications.
-- [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
-- [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
-	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
-- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
-	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - Library for machine intelligence.
-	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
-	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - Framework that optimizes TensorFlow models for on-device machine learning.
-	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
-	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
-- [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
-- [Open Source Society University](https://github.com/ossu/computer-science#readme)
-- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
-- [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
-- [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
-- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
-- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing that utilizes quantum mechanics and qubits on quantum computers.
-- [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
-- [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
-- [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generates a wide range of unique content in text, image, and audio format.
+- [University Courses](https://github.com/prakhar1989/awesome-courses#readme) 大学课程
+- [Data Science](https://github.com/academic/awesome-datascience#readme) 数据科学
+  - [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
+- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) 机器学习
+  - [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) 教程
+  - [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
+  - [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
+  - [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+  - [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
+  - [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
+  - [JAX](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
+  - [XAI](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
+- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme) 语音和自然语言处理
+  - [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
+  - [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
+  - [Question Answering](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
+  - [Natural Language Generation](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data-to-text, conversational agents, and narrative generation applications.
+- [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme) 语言学
+- [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme) 密码学
+  - [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - 理论基础，用于非密码学家的使用
+- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) 计算机视觉
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) 深度学习
+  - [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - 机器智能库
+  - [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - WebGL 加速的机器学习 JavaScript 库，用于训练和部署模型。
+  - [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - 框架，用于在设备上进行机器学习。
+  - [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - 最被引用的深度学习论文。
+  - [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
+- [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) 深度视觉
+- [Open Source Society University](https://github.com/ossu/computer-science#readme) 开源社会大学
+- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme) 函数式编程
+- [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - 基于证据的软件系统研究
+- [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme) - 静态分析和代码质量
+- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - 学习开发自己的搜索引擎
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - 量子计算
+- [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - 理论计算机科学
+- [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - 构建优秀的聊天机器人和数字助手
+- [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - 自动生成广泛独特的文本、图像和音频内容
 
 ## Big Data
 
@@ -366,7 +354,7 @@
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
-	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+  - [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 - [Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
@@ -430,27 +418,27 @@
 ## Development Environment
 
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
-- [Dev Env](https://github.com/jondot/awesome-devenv#readme)
-- [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
-- [Shell](https://github.com/alebcay/awesome-shell#readme)
-- [Fish](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
-- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
+- [Dev Env](https://github.com/jondot/awesome-devenv#readme) 开发环境
+- [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme) 配置文件
+- [Shell](https://github.com/alebcay/awesome-shell#readme) 终端
+- [Fish](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell. 用户友好的 shell
+- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme) 命令行应用
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)
 - [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
-	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
-	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
-	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
+  - [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
+  - [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
+  - [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
 - [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 - [SSH](https://github.com/moul/awesome-ssh#readme)
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
-- [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
+- [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies. 跨平台的终端应用程序，基于 Web 技术构建
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
 - [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
-- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
-- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme) 终端
+- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub. GitHub Actions 创建任务来自动化你的工作流程，并与他人分享
 
 ## Entertainment
 
@@ -593,7 +581,7 @@
 ## Work
 
 - [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
-	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
+  - [Communities](https://github.com/filipelinhares/awesome-slack#readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
@@ -604,9 +592,9 @@
 
 ## Networking
 
-- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
-- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
-- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
+- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme) 软件定义网络
+- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme) 网络抓包工具
+- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data. 网络协议用于近似同时交换媒体和数据
 - [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 - [Scapy](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
 
@@ -665,13 +653,13 @@
 
 ## Miscellaneous
 
-- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
-- [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
-	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
-	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
-- [CSV](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
+- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - 无干扰的科学写作，使用 Markdown、reStructuredText 和 Jupyter 笔记本
+- [JSON](https://github.com/burningtree/awesome-json#readme) - 基于文本的数据交换格式
+  - [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
+  - [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
+- [CSV](https://github.com/secretGeek/awesomeCSV#readme) - 使用逗号分隔值的文本文件格式
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev#readme)
-- [Radio](https://github.com/kyleterry/awesome-radio#readme)
+- [Radio](https://github.com/kyleterry/awesome-radio#readme) - 广播
 - [Awesome](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
 - [Analytics](https://github.com/0xnr/awesome-analytics#readme)
 - [REST](https://github.com/marmelab/awesome-rest#readme)
@@ -689,9 +677,9 @@
 - [FOSS Production Apps](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 - [Gulp](https://github.com/alferov/awesome-gulp#readme) - Task runner.
 - [AMA](https://github.com/sindresorhus/amas#readme) - Ask Me Anything.
-	- [Answers](https://github.com/stoeffel/awesome-ama-answers#readme)
+  - [Answers](https://github.com/stoeffel/awesome-ama-answers#readme)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)
-- [OpenGL](https://github.com/eug/awesome-opengl#readme) - Cross-platform API for rendering 2D and 3D graphics.
+- [OpenGL](https://github.com/eug/awesome-opengl#readme) - 跨平台的 2D 和 3D 图形渲染 API
 - [GraphQL](https://github.com/chentsulin/awesome-graphql#readme)
 - [Urban & Regional Planning](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
 - [Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
@@ -699,7 +687,7 @@
 - [Data Visualization](https://github.com/javierluraschi/awesome-dataviz#readme)
 - [Microservices](https://github.com/mfornos/awesome-microservices#readme)
 - [Unicode](https://github.com/jagracey/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
-	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
+  - [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme)
 - [Katas](https://github.com/gamontal/awesome-katas#readme)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme)
@@ -717,13 +705,13 @@
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)
-- [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - Dynamic tracing framework.
-- [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
-- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon and Pokémon GO.
+- [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - 动态跟踪框架
+- [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) - 增强您的浏览体验
+- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon 和 Pokémon GO
 - [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
-- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - Falsehoods programmers believe in.
-- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - Software development approach for complex needs by connecting the implementation to an evolving model.
-- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - Self-tracking through technology.
+- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - 程序员相信的谎言
+- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - 用于复杂需求的软件开发方法，通过将实现连接到不断发展的模型
+- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - 通过技术进行自我跟踪
 - [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - For digital designers.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - Programming something expressive instead of something functional.
@@ -798,9 +786,9 @@
 
 ## Related
 
-- [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
-- [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
-- [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
-- [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
+- [All Awesome Lists](https://github.com/topics/awesome) - 所有 Awesome 列表
+- [Awesome Search](https://awesomelists.top) - 快速搜索 Awesome 列表
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - 使用浏览器扩展发现随机页面
+- [Awesome CLI](https://github.com/umutphp/awesome-cli) - 一个简单的命令行工具，用于浏览 Awesome 列表
+- [Awesome Viewer](https://awesome.digitalbunker.dev) - 所有 Awesome 列表的视觉化
+- [Track Awesome List](https://www.trackawesomelist.com) - 查看 Awesome 列表的最新更新
